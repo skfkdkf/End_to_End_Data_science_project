@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End_to_End_Data_science_projects_With_krish_naik/mlruns/0/fb5568dd1ad248f7a363c2f0eaf6923f/artifacts
+end_time: 1704190688527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb5568dd1ad248f7a363c2f0eaf6923f
+run_name: wistful-midge-116
+run_uuid: fb5568dd1ad248f7a363c2f0eaf6923f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704190684036
+status: 3
+tags: []
+user_id: root
